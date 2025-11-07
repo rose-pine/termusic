@@ -1,0 +1,27 @@
+colors:
+  name: $name
+  author: Henrique
+  primary:
+    background: "$base"
+    foreground: "$text"
+  cursor:
+    text: "$base"
+    cursor: "$text"
+  normal:
+    black: "$surface"
+    red: "$love"
+    green: "$foam"
+    yellow: "$gold"
+    blue: "$pine"
+    magenta: "$iris"
+    cyan: "$foam"
+    white: "$text"
+  bright:
+    black: "$muted"
+    red: "$love"
+    green: "$foam"
+    yellow: "$gold"
+    blue: "$pine"
+    magenta: "$iris"
+    cyan: "$foam"
+    white: "$text"

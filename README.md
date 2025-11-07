@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Move your favorite `.yml` theme to `~/.config/termusic/themes`
+1. Move your favorite `dist/<variant>.yml` theme to `~/.config/termusic/themes`
 2. In the theme settings, apply your favorite Rosé Pine version
 
 ## Gallery
@@ -28,7 +28,7 @@
 
 > Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
 
-Modify `template.json` using Rosé Pine variables, then build variants:
+Modify `template.yml` using Rosé Pine variables, then build variants:
 
 ```sh
 npx @rose-pine/build@latest
